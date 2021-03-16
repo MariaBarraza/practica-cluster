@@ -1,4 +1,4 @@
-//npm install node-fetch
+// npm install node-fetch
 const server = require("fastify")();
 const fetch = require("node-fetch");
 const https = require("https");
