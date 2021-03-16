@@ -1,0 +1,16 @@
+{
+  "name": "practicaclusterstarter",
+  "version": "1.0.0",
+  "description": "practica de copias redundates",
+  "main": "proceso-master.js",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "fastify": "^3.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fer Barraza",
+  "license": ""
+}
